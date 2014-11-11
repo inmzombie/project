@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "0.0.0",
+  "description": "project",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "deprecated": "^0.0.1",
+    "gulp": "^3.8.10",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-util": "^3.0.1",
+    "orchestrator": "^0.3.7",
+    "vinyl-fs": "^0.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "author": "Diego Barros",
+  "license": "ISC"
+}

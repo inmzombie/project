@@ -1,0 +1,25 @@
+{
+  "name": "sektans",
+  "version": "0.0.0",
+  "description": "sektans test",
+  "main": "main.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "symfony2",
+    "sektans"
+  ],
+  "authors": [
+    "Diego Barros"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "requirejs": "~2.1.15",
+    "backbone": "~1.1.2"
+  }
+}

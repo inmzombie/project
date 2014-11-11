@@ -1,0 +1,6 @@
+#ignore
+lib/*
+node_modules/*
+.*.sw[a-z]
+*.un~
+Session.vim
